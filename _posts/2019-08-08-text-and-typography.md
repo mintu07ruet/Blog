@@ -97,11 +97,20 @@ test = pd.read_csv("/kaggle/input/nlp-getting-started/test.csv")
 sample_submission = pd.read_csv("/kaggle/input/nlp-getting-started/sample_submission.csv")
 print (train.shape, test.shape, sample_submission.shape)
 ```
-# See the data attributes 
+#See the data attributes 
 
 ```terminal
 train.head()
 ```
+
+```terminal
+test.head()
+```
+
+```terminal
+sample_submission.head()
+```
+
 
 #### Ruby
 
