@@ -37,7 +37,7 @@ The purpose of this project was classification of Disater tweets to identify wea
 
 ## Link
 
-[http://127.0.0.1:4000](https://www.kaggle.com/mintumiah/nlp-disaster-or-not-disaster)
+[https://www.kaggle.com/mintumiah/nlp-disaster-or-not-disaster](https://www.kaggle.com/mintumiah/nlp-disaster-or-not-disaster)
 
 
 ## Footnote
@@ -90,13 +90,17 @@ from tensorflow.keras.callbacks import ModelCheckpoint
 import tensorflow_hub as hub
 ```
 
-
-#### Terminal
+#Load 3 different files-train, test and submission files
+```console
+train = pd.read_csv("/kaggle/input/nlp-getting-started/train.csv")
+test = pd.read_csv("/kaggle/input/nlp-getting-started/test.csv")
+sample_submission = pd.read_csv("/kaggle/input/nlp-getting-started/sample_submission.csv")
+print (train.shape, test.shape, sample_submission.shape)
+```
+# See the data attributes 
 
 ```terminal
-$ env |grep SHELL
-SHELL=/usr/local/bin/bash
-PYENV_SHELL=bash
+train.head()
 ```
 
 #### Ruby
