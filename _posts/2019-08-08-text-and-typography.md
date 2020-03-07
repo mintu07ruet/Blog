@@ -5,7 +5,20 @@ categories: [Blogging, Demo]
 tags: [typography]
 ---
 
-This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
+The purpose of this project was classification of Disater tweets to identify weather it is Disaster or Not Disaster related. This study has used BERT model which is the Neuaral Network techniques to decode the texts. This study has scored 0.81901 in the kaggle Leaderboard with 969 current position. 
+
+# Import necesssray library for the analysis and model
+
+
+Refernces
+***https://www.kaggle.com/holfyuen/basic-nlp-on-disaster-tweets
+
+**https://www.kaggle.com/nkoprowicz/a-very-simple-fine-tuned-bert-model
+
+**https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert
+
+**https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert?fbclid=IwAR3m3AL4vajTMr-IY2kIPPS eFJJw7Lc9UqJ_nb5cmW5buliW5_qJlfpxgg
+
 
 ## Titles
 
