@@ -10,14 +10,7 @@ The purpose of this project was classification of Disater tweets to identify wea
 # Import necesssray library for the analysis and model
 
 
-Refernces
-***https://www.kaggle.com/holfyuen/basic-nlp-on-disaster-tweets
 
-**https://www.kaggle.com/nkoprowicz/a-very-simple-fine-tuned-bert-model
-
-**https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert
-
-**https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert?fbclid=IwAR3m3AL4vajTMr-IY2kIPPS eFJJw7Lc9UqJ_nb5cmW5buliW5_qJlfpxgg
 
 
 ## Titles
@@ -51,7 +44,7 @@ The purpose of this project was classification of Disater tweets to identify wea
 
 ## Link
 
-[http://127.0.0.1:4000](http://127.0.0.1:4000)
+[http://127.0.0.1:4000](https://www.kaggle.com/mintumiah/nlp-disaster-or-not-disaster)
 
 
 ## Footnote
@@ -154,7 +147,14 @@ fi;
 </div>
 ```
 
+Refernces
+***https://www.kaggle.com/holfyuen/basic-nlp-on-disaster-tweets
 
+**https://www.kaggle.com/nkoprowicz/a-very-simple-fine-tuned-bert-model
+
+**https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert
+
+**https://www.kaggle.com/ratan123/in-depth-guide-to-google-s-bert?fbclid=IwAR3m3AL4vajTMr-IY2kIPPS eFJJw7Lc9UqJ_nb5cmW5buliW5_qJlfpxgg
 ## Reverse Footnote
 
 [^footnote]: The footnote source.
