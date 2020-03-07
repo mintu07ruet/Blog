@@ -1,5 +1,5 @@
 ---
-title: About
+title: Md Mintu Miah
 
 # The About page
 # v2.0
