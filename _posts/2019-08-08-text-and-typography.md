@@ -8,15 +8,8 @@ tags: [typography]
 The purpose of this project was classification of Disater tweets to identify weather it is Disaster or Not Disaster related. This study has used BERT model which is the Neuaral Network techniques to decode the texts. This study has scored 0.81901 in the kaggle Leaderboard with 969 current position. 
 
 # Import necesssray library for the analysis and model
-
-
-
-
-
-## Titles
-
 ***
-# H1
+
 
 <h2 data-toc-skip>H2</h2>
 
@@ -72,11 +65,29 @@ This is a common code snippet, without syntax highlight and line number.
 
 ### Specific Languages
 
-#### Console
+# Import necesssray library for the analysis and model
 
 ```console
-$ date
-Sun Nov  3 15:11:12 CST 2019
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+import os
+for dirname, _, filenames in os.walk('/kaggle/input'):
+    for filename in filenames:
+        print(os.path.join(dirname, filename))
+import matplotlib.pyplot as plt
+import seaborn as sns
+from nltk.corpus import stopwords
+import re
+import string
+import pandas_profiling
+import random
+import string
+import tensorflow as tf
+from tensorflow.keras.layers import Dense, Input
+from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.models import Model
+from tensorflow.keras.callbacks import ModelCheckpoint
+import tensorflow_hub as hub
 ```
 
 
