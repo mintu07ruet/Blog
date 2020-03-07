@@ -1,6 +1,6 @@
 ---
-title: "Text and Typography"
-date: 2019-08-08 11:33:00 +0800
+title: "Real or Not? NLP with Disaster Tweets-CSE 5338 Data Mining Project Phase-02 "
+date: 2020-03-03 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 ---
@@ -22,17 +22,7 @@ This Jekyll template totally compatible with Markdown syntax. Now, let's take a 
 
 ## Paragraph
 
-I wandered lonely as a cloud
-
-That floats on high o'er vales and hills,
-
-When all at once I saw a crowd,
-
-A host, of golden daffodils;
-
-Beside the lake, beneath the trees,
-
-Fluttering and dancing in the breeze.
+The purpose of this project was classification of Disater tweets to identify weather it is Disaster or Not Disaster related. This study has used BERT model which is the Neuaral Network techniques to decode the texts. This study has scored 0.81901 in the kaggle Leaderboard with 969 current position
 
 ## Block Quote
 
